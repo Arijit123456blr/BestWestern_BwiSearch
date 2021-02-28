@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="206361" started-at="2021-02-28T04:12:25Z" finished-at="2021-02-28T04:15:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="206361" started-at="2021-02-28T04:12:25Z" finished-at="2021-02-28T04:15:51Z">
+      <class name="com.bwi.qa.testScripts.FindHotelTest">
+        <test-method status="PASS" signature="findHotel(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.bwi.qa.testScripts.FindHotelTest@548a102f]" name="findHotel" duration-ms="204872" started-at="2021-02-28T04:12:26Z" description="Find My Hotel. . ." data-provider="dp" finished-at="2021-02-28T04:15:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chicago, IL, USA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[March]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[March]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findHotel -->
+      </class> <!-- com.bwi.qa.testScripts.FindHotelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
